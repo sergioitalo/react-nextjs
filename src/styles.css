@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.header {
+  background-color: #050726;
+  padding: 16px 0;
+}
+
+.button_container {
+  display: flex;
+  justify-content: center;
+  padding: 48px 0;
+  
+}
+
+.click_container {
+  text-align: center;
+}
